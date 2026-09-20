@@ -1,0 +1,4 @@
+A:
+    script: /testers/cs2/beaversearch/suite/test
+C:
+    script: /testers/cs2/beaversearch/suite/test
